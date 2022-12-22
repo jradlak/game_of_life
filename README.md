@@ -1,4 +1,4 @@
 # game_of_life
-Simple Game Of Life
+Simple Convay's Game Of Life
 
 JavaScript Application
