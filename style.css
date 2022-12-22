@@ -1,0 +1,16 @@
+.grid {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: yellow;
+}
+
+.grid div {
+    height: 10px;
+    width: 10px;    
+}
+
+.cell {
+    background-color: blue;
+}
